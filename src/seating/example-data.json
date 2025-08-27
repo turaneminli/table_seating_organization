@@ -1,0 +1,29 @@
+{
+  "settings": { "partnerSetting": "opposite", "numberOfTable": 2 },
+  "guests": [
+    { "name": "Marvin Jiroudek", "gender": "M", "partner": "Faustine Woolgar" },
+    { "name": "Arnaldo Tabour", "gender": "M", "partner": "Genni Lythgoe" },
+    { "name": "Worden Rentalll", "gender": "M", "partner": "Liv Hambers" },
+    { "name": "Nickolaus MacNess", "gender": "M", "partner": "Dione Golden" },
+    { "name": "Barnie Polkinghorne", "gender": "M", "partner": "Marris Elwin" },
+    { "name": "Lindsay Kneal", "gender": "M", "partner": "Sonia Terrill" },
+    { "name": "Faustine Woolgar", "gender": "F", "partner": "Marvin Jiroudek" },
+    { "name": "Genni Lythgoe", "gender": "F", "partner": "Arnaldo Tabour" },
+    { "name": "Liv Hambers", "gender": "F", "partner": "Worden Rentalll" },
+    { "name": "Dione Golden", "gender": "F", "partner": "Nickolaus MacNess" },
+    { "name": "Marris Elwin", "gender": "F", "partner": "Barnie Polkinghorne" },
+    { "name": "Sonia Terrill", "gender": "F", "partner": "Lindsay Kneal" },
+        { "name": "Marvin Jiroudek", "gender": "M", "partner": "Faustine Woolgar" },
+    { "name": "Arnaldo Tabour", "gender": "M", "partner": "Genni Lythgoe" },
+    { "name": "Worden Rentalll", "gender": "M", "partner": "Liv Hambers" },
+    { "name": "Nickolaus MacNess", "gender": "M", "partner": "Dione Golden" },
+    { "name": "Barnie Polkinghorne", "gender": "M", "partner": "Marris Elwin" },
+    { "name": "Lindsay Kneal", "gender": "M", "partner": "Sonia Terrill" },
+    { "name": "Faustine Woolgar", "gender": "F", "partner": "Marvin Jiroudek" },
+    { "name": "Genni Lythgoe", "gender": "F", "partner": "Arnaldo Tabour" },
+    { "name": "Liv Hambers", "gender": "F", "partner": "Worden Rentalll" },
+    { "name": "Dione Golden", "gender": "F", "partner": "Nickolaus MacNess" },
+    { "name": "Marris Elwin", "gender": "F", "partner": "Barnie Polkinghorne" },
+    { "name": "Sonia Terrill", "gender": "F", "partner": "Lindsay Kneal" }
+  ]
+}
