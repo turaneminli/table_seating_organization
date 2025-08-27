@@ -33,3 +33,10 @@ npm run build
 - Shuffle seating with one click.
 - Copy/share URL to reproduce a plan (mode, tables, guests, seed included).
 - Print the seating plan.
+
+
+## Production - LIVE
+
+The project will be live on netlify for some time. To check this out use the following link:
+
+https://table-seating-organization.netlify.app/
